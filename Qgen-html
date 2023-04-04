@@ -1,0 +1,11 @@
+<div class = "container fluid text-center">
+  <h1> Random Anime Quote Generator</h1>
+  <p>Some of my favorite anime quotes of all time!</p>
+ <img src="http://img.skenko.com/images/anime/yfpindyfpind.jpg" border="0" alt="Anime images">
+  <br/> 
+  <button class = "btn btn-default" type="submit"> New Quote</button>
+  <div class = "quotes">
+    <span class = "quote">Anime Quotes!</span>
+    <span class = "author">-Yours Truly</span>
+  </div>
+ </div>
